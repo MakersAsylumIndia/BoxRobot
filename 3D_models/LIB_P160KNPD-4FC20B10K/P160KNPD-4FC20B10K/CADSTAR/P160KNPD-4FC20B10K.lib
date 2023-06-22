@@ -1,0 +1,19 @@
+.P160KNPD-4FC20B10K :1 ;TT ELECTRONICS / BI TECHNOLOGIES - P160KNPD-4FC20B10K - ROTARY POTENTIOMETER, 10KOHM, 20%
+P160KNPD4FC20B10K
+*STM VR
+*NGS
+*PNM 1=1 2=2 3=3 4=MH1
+*PLB 1="1" 2="2" 3="3" 4="MH1"
+*MXP 5
+*DFN P160KNPD-4FC20B10K
+~!Manufacturer_Name (TT Electronics)
+~!Manufacturer_Part_Number (P160KNPD-4FC20B10K)
+~!Mouser Part Number (858-P160KNP4FC20B10K)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/BI-Technologies-TT-Electronics/P160KNPD-4FC20B10K?qs=%252BUYXD5bnyXo7nCLwbZeBWQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/P160KNPD-4FC20B10K.pdf)
+~!Height (9.5mm)
+~!3D_Model (P160KNPD-4FC20B10K)
+P160KNPD-4FC20B10K
+1.1!U 2.1!U 3.1!U 4.1!U 

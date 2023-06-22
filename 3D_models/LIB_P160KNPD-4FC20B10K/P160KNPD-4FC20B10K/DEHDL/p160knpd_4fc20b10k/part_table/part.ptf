@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'P160KNPD_4FC20B10K'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TT Electronics", "P160KNPD-4FC20B10K" (!) = "", "P160KNPD4FC20B10K", "Other", "858-P160KNP4FC20B10K", "https://www.mouser.co.uk/ProductDetail/BI-Technologies-TT-Electronics/P160KNPD-4FC20B10K?qs=%252BUYXD5bnyXo7nCLwbZeBWQ%3D%3D", "", "", "TT ELECTRONICS / BI TECHNOLOGIES - P160KNPD-4FC20B10K - ROTARY POTENTIOMETER, 10KOHM, 20%", "https://componentsearchengine.com/Datasheets/1/P160KNPD-4FC20B10K.pdf", "9.5 mm"
+END_PART
+
+END.
